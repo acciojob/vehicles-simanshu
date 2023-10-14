@@ -14,7 +14,7 @@ public class Vehicle {
         return name;
     }
     public int getCurrentDirection(){
-        return getcurrentDirection;
+        return currentDirection;
     }
 
     public void steer(int direction){
