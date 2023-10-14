@@ -10,10 +10,10 @@ public class Vehicle {
         this.name=name;
 
     }
-    public String getname(){
+    public String getName(){
         return name;
     }
-    public int getcurrentDirection(){
+    public int getCurrentDirection(){
         return getcurrentDirection;
     }
 
